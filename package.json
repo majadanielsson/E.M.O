@@ -21,7 +21,7 @@
     "mongoose": "^5.9.7",
     "morgan": "~1.9.1",
     "neat-csv": "^5.2.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "soap": "^0.31.0"
   },
   "devDependencies": {
